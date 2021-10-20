@@ -1,0 +1,47 @@
+strength:
+  skills_0:
+    name: "§4§mТемноКрасный Зачеркнутый текст"
+    block: "DIRT"
+    description:
+          - "§b§nГолубой подчеркнутый текст"
+  skills_1:
+    name: "§l§2Печенька"
+    block: "COOKIE"
+    description:
+           - "§fМама давида обязательно обрадуется"
+           - "§6§lжелтой жирной строчке, ведь"
+           - "§dона такаяже жирная как и эта"
+           - ""
+           - "§l§4СТРОЧКА"
+
+peculiarities:
+  peculiarity_0:
+    name: "§3§lАлкоголизм"
+    block: "HONEY_BOTTLE"
+    description:
+      - "§7§oПохоже, что вы больше не можете представить свой день"
+      - "§7§oбез бутылки чего покрепче. Ваш персонаж начинает"
+      - "§7§oстрадать от зависимости к алкоголю."
+      - " "
+      - "§d§lЭффекты"
+      - "§c§n-1§r §4Сила, §c§n-1§r §6Харизма, §c§n-1§r §aЛовкость"
+  peculiarity_1:
+    name: "ЫРЕЗМ2"
+    block: "DIRT"
+    description:
+      - "КЛОУНИЗМ2"
+  peculiarity_2:
+    name: "ЗИМА3"
+    block: "WARPED_ROOTS"
+    description:
+      - "КЛОУНИЗМ3"
+  peculiarity_3:
+    name: "ы4"
+    block: "DIRT"
+    description:
+      - "s4"
+  peculiarity_4:
+    name: "ПАСКУДА5"
+    block: "WRITTEN_BOOK"
+    description:
+      - "МАТЬ ДАВИДА5"

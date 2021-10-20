@@ -1,0 +1,20 @@
+name: ENCORE-Main
+version: '${project.version}'
+main: com.evgenyn.encore.ENCORE
+api-version: 1.17
+authors: [ Evgeny__N ]
+description: ENCORE Main plugin
+depend: [ProtocolLib]
+commands:
+  ap:
+    description: Admin Panel
+    usage: /<command>
+  menu:
+    description: Player Menu
+    usage: /<command>
+  bank:
+    description: Bank Panel
+    usage: /<command>
+  skills:
+    description: Skills Panel
+    usage: /<command>
